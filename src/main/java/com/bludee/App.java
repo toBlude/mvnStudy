@@ -12,4 +12,7 @@ public class App
         System.out.println("server started");
         new DiscardServer(port).run();
     }
+    public void testFun(){
+        System.out.println("committest");
+    }
 }
